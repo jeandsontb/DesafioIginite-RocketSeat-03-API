@@ -25,7 +25,7 @@ O desafio consiste em corrigir um código que parou de funcionar, para que a imp
 Note que a quantidade de likes deve sempre ser zero no momento de criação.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Test" title="#Test" src="" width="400px">
+  <img alt="Test" title="#Test" src="https://raw.githubusercontent.com/jeandsontb/DesafioIginite-RocketSeat-03-API/main/screen/desafioRocketseat03.png" width="400px">
 
 ## 🛠 Tecnologias
 
